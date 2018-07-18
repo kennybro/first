@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Dieta</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Input_Username">Enter your username here</string>
+    <string name="Input_Password">Enter your password here</string>
+    <string name="calories">Calories:</string>
+    <string name="nutritional_contents">Nutritional Contents</string>
+    <string name="total_fat">Total Fat:</string>
+    <string name="cholesterol">Cholesterol:</string>
+    <string name="sodium">Sodium:</string>
+    <string name="protein">Protein:</string>
+    <string name="total_carbohydrates">Total Carbohydrates:</string>
+    <string name="_0">0</string>
+    <string name="detail">Detail</string>
+    <string name="finish">Finish</string>
+    <string name="food_name">Food Name:</string>
+    <string name="picture_select_prompt">Choose a picture</string>
+    <string name="picture_select_gallery">Gallery</string>
+    <string name="picture_select_camera">Camera</string>
+    <string name="arrow_left"><![CDATA[<--]]></string>
+    <string name="arrow_right"><![CDATA[-->]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirm">Confirm</string>
+
+
+</resources>
